@@ -1,5 +1,5 @@
 # deep-learning-exercises
-Deep Learning exercises (**Ex01–Ex06**) – code + tasks + solutions
+Deep Learning exercises (**Ex1–Ex6**) – code + tasks + solutions
 
 This repository contains implementations and solutions for Deep Learning coursework exercises.
 
