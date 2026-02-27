@@ -8,7 +8,7 @@ This repository contains implementations and solutions for Deep Learning coursew
 
 Each exercise folder contains:
 
-- `src/` → Python implementation
+- `src/` → Python code implementation
 - `docs/` → Exercise description (PDF) & Written solution (PDF)
 
 
