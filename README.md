@@ -27,6 +27,3 @@ Ex01/
 
 ---
 
-## 🚀 How to Run
-
-Example:
